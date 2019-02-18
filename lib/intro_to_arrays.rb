@@ -21,3 +21,6 @@ end
 def length_of_array(array)
   array.length
 end 
+
+def first_element_with_array_methods
+end
