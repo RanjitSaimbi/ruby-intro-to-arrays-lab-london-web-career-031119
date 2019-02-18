@@ -15,7 +15,7 @@ def third_elemement(array)
 end
 
 def last_element(array)
-  return[-1]
+  return array[-1]
 end
 
 def length_of_array(array)
